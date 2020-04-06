@@ -14,9 +14,11 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone https://github.com/Canertasan/Emberjs_Tutorial.git`
 * `cd super-rentals`
-* `npm install`
+* `npm install -g ember-cli@2.16.2`
+* `ember install ember-cli-mirage`
+* `ember install ember-simple-google-maps`
 
 ## Running / Development
 
