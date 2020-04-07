@@ -297,6 +297,8 @@ p {
 .listing .map-container {
   padding: 2px;
   flex: 1;
+  height: 100%;
+  width: 100%;
 }
 
 .listing .map {
